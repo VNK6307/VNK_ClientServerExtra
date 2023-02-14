@@ -1,0 +1,5 @@
+.idea
+/out
+*.iml
+/VNK_ClSerExtra_server/out
+/VNK_ClSerExtra_client/out
